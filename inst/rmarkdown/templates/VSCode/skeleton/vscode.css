@@ -1,5 +1,6 @@
 body {
   background-color: #1e1e1e;
+  margin-top: 2em;
   margin: auto;
   overflow: visible;
   padding-left: 2em;
@@ -10,11 +11,13 @@ body {
 }
 
 #header {
+  margin-top: 3em;
   text-align: center;
   color: #9cdcfe;
 }
 
 #TOC {
+  margin-top: 3em;
   clear: both;
   padding: 4px;
   width: 400px;
@@ -137,7 +140,7 @@ img {
 
 
 h1 {
-  margin-top: 0;
+  margin-top: 1em;
   font-size: 200%;
   line-height: 40px;
   color: #9cdcfe;
@@ -186,7 +189,7 @@ a[href^="http:"] {
 a[href^="https:"] {
   text-decoration: underline;
 }
-          
+
 pre, code {
   background-color: #1e1e1e;
   border-radius: 3px;
