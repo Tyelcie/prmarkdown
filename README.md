@@ -1,3 +1,3 @@
 # prmarkdown
 
-To collect some rmarkdown template for my own convinience, and is still in develepment, not intended to share for now. Thanks for visiting.
+To try to develop some rmarkdown templates for my own convinience, and not finished yet, not intended to share for now. Thanks for visiting.
