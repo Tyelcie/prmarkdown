@@ -1,0 +1,5 @@
+name: VSCode
+description: >
+   A sumulation of the Microsoft Visual Studio Code syntex highlighting style.
+   The color is extracte with photoshop. css style availed the pygments scheme.
+create_dir: FALSE
