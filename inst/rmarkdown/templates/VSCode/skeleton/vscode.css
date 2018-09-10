@@ -17,20 +17,19 @@ body {
 }
 
 #TOC {
-  margin-top: 5em;
   clear: both;
   padding: 4px;
-  width: 400px;
+  width: 15em;
   background-color: transparent;
   line-height: 1.5;
   color: #d4d4d4;
   border-left: 2px solid #d4d4d4;
 }
+
 #TOC .toctitle {
-  margin-top: 5em;
   font-weight: bold;
   font-size: 16px;
-  margin-left: 5px;
+  margin-left: 0;
 }
 
 #TOC ul {
