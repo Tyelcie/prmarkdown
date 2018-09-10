@@ -17,11 +17,10 @@ bibliography: *.bib
 knitr::opts_chunk$set(echo = TRUE, eval = TRUE, cache = TRUE, fig.align = 'center')
 ```
 
-# Some header
+# 启动
 
 ```{r,message=FALSE}
-setwd('.')
 library(ggplot2)
 ```
 
-## another header
+## 二级标题
