@@ -17,7 +17,7 @@ body {
 }
 
 #TOC {
-  margin-top: 3em;
+  margin-top: 5em;
   clear: both;
   padding: 4px;
   width: 400px;
@@ -27,6 +27,7 @@ body {
   border-left: 2px solid #d4d4d4;
 }
 #TOC .toctitle {
+  margin-top: 5em;
   font-weight: bold;
   font-size: 16px;
   margin-left: 5px;
