@@ -1,0 +1,5 @@
+name: Video Script
+description: >
+   When making tutorials I need to script down what I should say (lines) and
+    sometimes what I should do (note).
+create_dir: FALSE

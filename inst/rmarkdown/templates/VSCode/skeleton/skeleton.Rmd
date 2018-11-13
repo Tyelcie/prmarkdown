@@ -27,7 +27,7 @@ library(ggplot2)
 
 正文blabla，此处当有引用[@grolemund_r_nodate]。
 
-# References
+# 参考文献{#References}
 
 貌似这个标题只能用英文。如果有参考文献，请删除这段说明文字，只留下一个标题。开头yaml段落的`bibliography`指向引文bib文件。如果没有引文，则须删除`bibliography`字段。
 

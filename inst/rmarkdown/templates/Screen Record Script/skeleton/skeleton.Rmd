@@ -1,0 +1,33 @@
+---
+title: "桃花扇"
+auther: ""
+output:
+  html_document:
+    highlight: pygments
+    css: video_script.css
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    number_section: false
+    fig_caption: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, cache = FALSE, fig.align = 'center')
+```
+
+# 试一出 先声
+
+```{notes}
+副末毡巾、道袍、白须扮赞礼上
+```
+
+```{lines}
+【蝶恋花】
+古董先生谁似我？非玉非铜，满面包浆裹。
+剩魄残魂无半伙，时人指笔何须躲。
+旧恨填胸一笔抹，遇酒逢歌，随处留皆可。
+子孝臣忠万事妥，休思更吃人参果。
+```
+
+![标题](timg.jpg)
